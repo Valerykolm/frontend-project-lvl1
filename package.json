@@ -1,7 +1,7 @@
 {
-  "name": "@hexlet/code",
+  "name": "brain-games",
   "version": "1.0.0",
-  "description": "[![Actions Status](https://github.com/Valerykolm/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Valerykolm/frontend-project-lvl1/actions)",
+  "description": "brain-games - my studing project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,11 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/Valerykolm/frontend-project-lvl1.git"
   },
-  "author": "",
+  "author": "Valeriia Kolmakova <valerycolm@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Valerykolm/frontend-project-lvl1/issues"
+    "url": "https://github.com/Valerykolm/frontend-project-lvl1/issues",
+    "email": "valerycolm@gmail.com"
   },
   "type": "module",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "homepage": "https://github.com/Valerykolm/frontend-project-lvl1#readme"
 }
