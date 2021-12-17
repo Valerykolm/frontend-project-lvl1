@@ -5,4 +5,4 @@
 
 <a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
 
-<a href="https://asciinema.org/a/14"><img src="https://asciinema.org/a/14.png" width="836"/>https://asciinema.org/a/sfD1wRM1delCgPIyXxcbkK5AS</a>
+<a href="https://asciinema.org/a/sfD1wRM1delCgPIyXxcbkK5AS">Asciinema</a>
