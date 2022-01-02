@@ -41,7 +41,7 @@ const checkFlag = () => {
         flag = false;
       }
     };
-
+    // API?
     brainEven();
 
     if (flag === false) {
