@@ -27,7 +27,7 @@ const questionAnswer = () => {
 
   const question = `${num1} ${randOperator} ${num2}`;
 
-  return [question, result];
+  return [question, String(result)];
 };
 
 export default questionAnswer;
