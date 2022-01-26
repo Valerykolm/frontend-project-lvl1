@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import myDefault from '../src/games/gcd.js';
 
 import checkFlag from '../src/index.js';

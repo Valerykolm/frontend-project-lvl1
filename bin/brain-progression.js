@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import myDefault from '../src/games/progression.js';
 
 import checkFlag from '../src/index.js';
